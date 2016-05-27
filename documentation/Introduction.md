@@ -8,4 +8,4 @@ Open circuit and short circuit
 Series and parallel connections
 Pull-up and pull-down resistors
 
-http://techbus.safaribooksonline.com/book/programming/javascript/9781491928981
+- http://techbus.safaribooksonline.com/book/programming/javascript/9781491928981
