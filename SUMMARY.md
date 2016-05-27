@@ -5,5 +5,5 @@
    * Electronics
 * [Hardware](documentation/Hardware.md)
 * [Software](documentation/Software.md)
-* Embedded Systems
+* [Embedded Systems](documentation/EmbeddedSystems.md)
 
