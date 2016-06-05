@@ -10,6 +10,8 @@
 
 ## Resistor
 
+> 
+
 ## Capacitor
 
 ## Open Circuit
