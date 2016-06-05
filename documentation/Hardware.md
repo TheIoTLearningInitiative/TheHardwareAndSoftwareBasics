@@ -1,5 +1,14 @@
 # Hardware
 
+From Sparkfun
+
+- What is Electricity?
+- What is a Circuit?
+- Voltage, Current, Resistance, and Ohm’s Law
+- Connector Basics
+- Soldering 101 - PTH
+- Signals
+
 # Computer
 
 ## Processor Design
