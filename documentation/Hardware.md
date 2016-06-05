@@ -59,6 +59,8 @@ From Sparkfun
 
 ### Input/output (I/O)
 
+> 
+
 ### Sensors
 
 > In the broadest definition, a sensor is an object whose purpose is to detect events or changes in its environment, and then provide a corresponding output. A sensor is a type of transducer; sensors may provide various types of output, but typically use electrical or optical signals. [Wikipedia](https://en.wikipedia.org/wiki/Sensor)
