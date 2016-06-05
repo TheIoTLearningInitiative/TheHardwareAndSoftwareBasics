@@ -81,3 +81,7 @@ From Sparkfun
 ## Processor Design
 
 > Processor design is the design engineering task of creating a microprocessor, a component of computer hardware. [Wikipedia](https://en.wikipedia.org/wiki/Processor_design)
+
+## Control Unit
+
+> The control unit (CU) is a component of a computer's central processing unit (CPU) that directs operation of the processor. It tells the computer's memory, arithmetic/logic unit and input and output devices how to respond to a program's instructions. [Wikipedia](https://en.wikipedia.org/wiki/Control_unit)
