@@ -5,7 +5,7 @@
 * [Concepts](documentation/ConceptsElectronics.md)
    * [Electronics](documentation/Electronics.md)
    * [Electronic Components](documentation/ElectronicComponents.md)
-   * Signals
+   * [Signals](documentation/Signals.md)
 * [Hardware](documentation/Hardware.md)
 * [Software](documentation/Software.md)
 * [Embedded Systems](documentation/EmbeddedSystems.md)
