@@ -80,4 +80,4 @@ From Sparkfun
 
 ## Processor Design
 
-> [Wikipedia]()
+> Processor design is the design engineering task of creating a microprocessor, a component of computer hardware. [Wikipedia](https://en.wikipedia.org/wiki/Processor_design)
