@@ -49,7 +49,7 @@ From Sparkfun
 - Soldering 101 - PTH
 - Signals
 
-# 
+# Other Processing Units
 
 ## Field Programmable Gate Array
 
