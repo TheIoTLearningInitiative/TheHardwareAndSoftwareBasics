@@ -47,3 +47,7 @@
 > An analog signal has a theoretically infinite resolution. In practice an analog signal is subject to electronic noise and distortion introduced by communication channels and signal processing operations, which can progressively degrade the signal-to-noise ratio (SNR). [Wikipedia](https://en.wikipedia.org/wiki/Analog_signal)
 
 - https://software.intel.com/en-us/articles/learning-about-input-and-output
+
+## Circuit
+
+> Welcome to circuits 101! One of the first things you’ll encounter when learning about electronics is the concept of a circuit. This tutorial will explain what a circuit is, as well as discuss voltage in further detail. [What is a Circuit?](https://learn.sparkfun.com/tutorials/what-is-a-circuit)
