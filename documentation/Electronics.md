@@ -14,6 +14,8 @@
 
 ## Capacitor
 
+> A capacitor (originally known as a condenser) is a passive two-terminal electrical component used to store electrical energy temporarily in an electric field. [Wikipedia](https://en.wikipedia.org/wiki/Capacitor)
+
 ## Open Circuit
 
 ## Short Circuit
