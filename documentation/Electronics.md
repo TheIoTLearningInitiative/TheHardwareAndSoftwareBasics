@@ -30,5 +30,5 @@
 
 > A pull-down resistor works in the same way but is connected to ground. It holds the logic signal at a low logic level when no other active device is connected.
 
-- http://techbus.safaribooksonline.com/book/programming/javascript/9781491928981
+
 - https://software.intel.com/en-us/articles/learning-about-input-and-output
