@@ -26,6 +26,8 @@
 
 ## Pull-Up Resistors
 
+>  [Wikipedia](https://en.wikipedia.org/wiki/Pull-up_resistor)
+
 ## Pull-Down Resistors
 
 - http://techbus.safaribooksonline.com/book/programming/javascript/9781491928981
