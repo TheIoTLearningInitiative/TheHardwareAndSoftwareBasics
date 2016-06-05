@@ -75,6 +75,9 @@ From Sparkfun
 
 > A microprocessor is a computer processor which incorporates the functions of a computer's central processing unit (CPU) on a single integrated circuit (IC), or at most a few integrated circuits. The microprocessor is a multipurpose, clock driven, register based, programmable electronic device which accepts digital or binary data as input, processes it according to instructions stored in its memory, and provides results as output. Microprocessors contain both combinational logic and sequential digital logic. Microprocessors operate on numbers and symbols represented in the binary numeral system. [Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
 
+### Central processing unit (CPU)
+The control unit, ALU, and registers are collectively known as a central processing unit (CPU). Early CPUs were composed of many separate components but since the mid-1970s CPUs have typically been constructed on a single integrated circuit called a microprocessor.
+
 ### General Purpose Processor
 
 > General purpose means it is not designed for any specialized purpose
