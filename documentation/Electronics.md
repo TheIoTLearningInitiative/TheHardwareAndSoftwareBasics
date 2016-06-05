@@ -30,5 +30,11 @@
 
 > A pull-down resistor works in the same way but is connected to ground. It holds the logic signal at a low logic level when no other active device is connected.
 
+## Digital 
+
+> A digital signal is a signal that represents a sequence of discrete values. A logic signal is a digital signal with only two possible values, and describes an arbitrary bit stream. Other types of digital signals can represent three-valued logic or higher valued logics. [Wikipedia](https://en.wikipedia.org/wiki/Digital_signal)
+
+## Analog
+
 
 - https://software.intel.com/en-us/articles/learning-about-input-and-output
