@@ -20,7 +20,7 @@
 
 > An electrical network is an interconnection of electrical components (e.g. batteries, resistors, inductors, capacitors, switches) or a model of such an interconnection, consisting of electrical elements (e.g. voltage sources, current sources, resistances, inductances, capacitances). [Wikipedia](https://en.wikipedia.org/wiki/Electrical_network)
 
-## Serial and Parallel Connections
+## Serial and Parallel Circuits
 
 > Components of an electrical circuit or electronic circuit can be connected in many different ways. The two simplest of these are called series and parallel and occur frequently. Components connected in series are connected along a single path, so the same current flows through all of the components. Components connected in parallel are connected so the same voltage is applied to each component. [Wikipedia](https://en.wikipedia.org/wiki/Series_and_parallel_circuits)
 
