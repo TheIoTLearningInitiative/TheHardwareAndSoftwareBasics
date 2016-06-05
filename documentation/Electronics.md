@@ -2,6 +2,8 @@
 
 ## Voltage
 
+>  [Wikipedia](https://en.wikipedia.org/wiki/Voltage)
+
 ## Current
 
 ## Resistor
