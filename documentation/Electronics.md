@@ -10,6 +10,10 @@
 
 > Welcome to circuits 101! One of the first things you’ll encounter when learning about electronics is the concept of a circuit. This tutorial will explain what a circuit is, as well as discuss voltage in further detail. [What is a Circuit?](https://learn.sparkfun.com/tutorials/what-is-a-circuit)
 
+## Electrical Network
+
+> An electrical network is an interconnection of electrical components (e.g. batteries, resistors, inductors, capacitors, switches) or a model of such an interconnection, consisting of electrical elements (e.g. voltage sources, current sources, resistances, inductances, capacitances). [Wikipedia](https://en.wikipedia.org/wiki/Electrical_network)
+
 ## Voltage
 
 > Voltage, electric potential difference, electric pressure or electric tension (formally denoted ∆V or ∆U, but more often simply as V or U, for instance in the context of Ohm's or Kirchhoff's laws) is the difference in electric potential energy between two points per unit electric charge. [Wikipedia](https://en.wikipedia.org/wiki/Voltage)
@@ -18,9 +22,6 @@
 
 > An electric current is a flow of electric charge. In electric circuits this charge is often carried by moving electrons in a wire. It can also be carried by ions in an electrolyte, or by both ions and electrons such as in a plasma. [Wikipedia](https://en.wikipedia.org/wiki/Electric_current)
 
-## Electrical Network
-
-> An electrical network is an interconnection of electrical components (e.g. batteries, resistors, inductors, capacitors, switches) or a model of such an interconnection, consisting of electrical elements (e.g. voltage sources, current sources, resistances, inductances, capacitances). [Wikipedia](https://en.wikipedia.org/wiki/Electrical_network)
 
 # Serial and Parallel Circuits
 
