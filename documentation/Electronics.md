@@ -29,12 +29,6 @@
 
 - [Series and Parallel Circuits](https://learn.sparkfun.com/tutorials/series-and-parallel-circuits)
 
-# Pull-Up & Pull-Down Resistors
-
-> In electronic logic circuits, a pull-up resistor is a resistor connected between a signal conductor and a positive power supply voltage to ensure that the signal will be a valid logic level if external devices are disconnected or high-impedance is introduced. [Wikipedia](https://en.wikipedia.org/wiki/Pull-up_resistor)
-
-> A pull-down resistor works in the same way but is connected to ground. It holds the logic signal at a low logic level when no other active device is connected.
-
 # Signals
 
 ## Digital 
