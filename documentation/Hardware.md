@@ -77,7 +77,7 @@ From Sparkfun
 
 ### Central processing unit (CPU)
 
-> The control unit, ALU, and registers are collectively known as a central processing unit (CPU). Early CPUs were composed of many separate components but since the mid-1970s CPUs have typically been constructed on a single integrated circuit called a microprocessor.
+> The control unit, ALU, and registers are collectively known as a central processing unit (CPU). Early CPUs were composed of many separate components but since the mid-1970s CPUs have typically been constructed on a single integrated circuit called a microprocessor. [Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
 
 ### General Purpose Processor
 
