@@ -59,7 +59,7 @@ From Sparkfun
 
 ### Actuators
 
-> An actuator is a type of motor that is responsible for moving or controlling a mechanism or system. It is operated by a source of energy, typically electric current, hydraulic fluid pressure, or pneumatic pressure, and converts that energy into motion. [Wikipedia]()
+> An actuator is a type of motor that is responsible for moving or controlling a mechanism or system. It is operated by a source of energy, typically electric current, hydraulic fluid pressure, or pneumatic pressure, and converts that energy into motion. [Wikipedia](https://en.wikipedia.org/wiki/Actuator)
 
 ### Intellectual Property Core
 
