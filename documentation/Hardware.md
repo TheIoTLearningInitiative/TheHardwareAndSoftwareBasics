@@ -37,10 +37,6 @@ From Sparkfun
 
 - [Sparkfun PCB Basics](https://learn.sparkfun.com/tutorials/pcb-basics)
 
-### Semiconductor Memory
-
-> Semiconductor memory is an electronic data storage device, often used as computer memory, implemented on a semiconductor-based integrated circuit. It is made in many different types and technologies. [Wikipedia](https://en.wikipedia.org/wiki/Semiconductor_memory)
-
 ### Analog Digital Converter
 
 >  An analog-to-digital converter (ADC, A/D, A–D, or A-to-D) is a device that converts a continuous physical quantity (usually voltage) to a digital number that represents the quantity's amplitude. [Wikipedia](https://en.wikipedia.org/wiki/Analog-to-digital_converter)
@@ -86,6 +82,10 @@ From Sparkfun
 ## Control Unit
 
 > The control unit (CU) is a component of a computer's central processing unit (CPU) that directs operation of the processor. It tells the computer's memory, arithmetic/logic unit and input and output devices how to respond to a program's instructions. [Wikipedia](https://en.wikipedia.org/wiki/Control_unit)
+
+## Semiconductor Memory
+
+> Semiconductor memory is an electronic data storage device, often used as computer memory, implemented on a semiconductor-based integrated circuit. It is made in many different types and technologies. [Wikipedia](https://en.wikipedia.org/wiki/Semiconductor_memory)
 
 ## Input/output (I/O)
 
