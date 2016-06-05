@@ -78,3 +78,6 @@ From Sparkfun
 ## Structure of an Embedded System
 
 
+## Processor Design
+
+> [Wikipedia]()
