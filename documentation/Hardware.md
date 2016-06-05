@@ -43,7 +43,9 @@ From Sparkfun
 
 - [Sparkfun PCB Basics](https://learn.sparkfun.com/tutorials/pcb-basics)
 
-### Memory
+### Semiconductor Memory
+
+> Semiconductor memory is an electronic data storage device, often used as computer memory, implemented on a semiconductor-based integrated circuit. It is made in many different types and technologies. [Wikipedia](https://en.wikipedia.org/wiki/Semiconductor_memory)
 
 ### Analog Digital Converter
 
