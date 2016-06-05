@@ -7,7 +7,7 @@
    * [Electronics](documentation/Electronics.md)
    * [Electronic Components](documentation/ElectronicComponents.md)
 * [Hardware](documentation/Hardware.md)
-   * Computer
+   * [Computer](documentation/Computer.md)
 * [Software](documentation/Software.md)
 * [Embedded Systems](documentation/EmbeddedSystems.md)
 
