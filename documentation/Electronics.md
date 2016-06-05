@@ -18,6 +18,8 @@
 
 ## Open Circuit
 
+> [Wikipedia]()
+
 ## Short Circuit
 
 ## Serial Connection
