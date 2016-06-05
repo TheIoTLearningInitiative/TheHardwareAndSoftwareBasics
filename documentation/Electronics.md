@@ -16,14 +16,6 @@
 
 > A capacitor (originally known as a condenser) is a passive two-terminal electrical component used to store electrical energy temporarily in an electric field. [Wikipedia](https://en.wikipedia.org/wiki/Capacitor)
 
-## Open Circuit
-
-> Open-circuit voltage (abbreviated as OCV or VOC ) is the difference of electrical potential between two terminals of a device when disconnected from any circuit. [Wikipedia](https://en.wikipedia.org/wiki/Open-circuit_voltage)
-
-## Short Circuit
-
-> 
-
 ## Electrical Network
 
 > An electrical network is an interconnection of electrical components (e.g. batteries, resistors, inductors, capacitors, switches) or a model of such an interconnection, consisting of electrical elements (e.g. voltage sources, current sources, resistances, inductances, capacitances). [Wikipedia](https://en.wikipedia.org/wiki/Electrical_network)
