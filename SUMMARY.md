@@ -10,7 +10,6 @@
    * [MicroProcessors](documentation/Processors.md)
    * [MicroController](documentation/MicroController.md)
    * [Computer](documentation/Computer.md)
-       * Temp
    * [Embedded Systems](documentation/EmbeddedSystems.md)
    * [Integrated Circuits](documentation/IntegratedCircuits.md)
    * [Processing Units](documentation/ProcessingUnits.md)
