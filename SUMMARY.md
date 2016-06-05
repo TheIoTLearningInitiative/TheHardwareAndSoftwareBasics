@@ -10,11 +10,11 @@
    * [MicroProcessors](documentation/Processors.md)
    * [MicroController](documentation/MicroController.md)
    * [Computer](documentation/Computer.md)
+   * Embedded Systems
    * [Integrated Circuits](documentation/IntegratedCircuits.md)
    * [Processing Units](documentation/ProcessingUnits.md)
    * [Real World Interaction](documentation/RealWorldInteraction.md)
    * [Printed Circuit Board](documentation/PrintedCircuitBoard.md)
-   * Embedded Systems
 * [Software](documentation/Software.md)
 * [Embedded Systems](documentation/EmbeddedSystems.md)
 
