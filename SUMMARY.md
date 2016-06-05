@@ -9,7 +9,7 @@
 * [Hardware](documentation/Hardware.md)
    * [Computer](documentation/Computer.md)
    * [MicroController](documentation/MicroController.md)
-   * Integrated Circuit
+   * [Integrated Circuit](documentation/IntegratedCircuits.md)
 * [Software](documentation/Software.md)
 * [Embedded Systems](documentation/EmbeddedSystems.md)
 
