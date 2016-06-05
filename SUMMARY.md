@@ -7,7 +7,7 @@
    * [Electronics](documentation/Electronics.md)
    * [Electronic Components](documentation/ElectronicComponents.md)
 * [Hardware](documentation/Hardware.md)
-   * [Processors](documentation/Processors.md)
+   * [MicroProcessors](documentation/Processors.md)
    * [MicroController](documentation/MicroController.md)
    * [Computer](documentation/Computer.md)
    * [Integrated Circuits](documentation/IntegratedCircuits.md)
