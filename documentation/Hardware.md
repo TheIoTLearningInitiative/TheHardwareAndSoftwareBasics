@@ -31,6 +31,8 @@ From Sparkfun
 
 ## Floating-point Processing Units (FPUs)
 
+> A floating-point unit (FPU, colloquially a math coprocessor) is a part of a computer system specially designed to carry out operations on floating point numbers. Typical operations are addition, subtraction, multiplication, division, square root, and bitshifting. [Wikipedia]()
+
 ## Digital Signal Processors (DSPs)
 
 
