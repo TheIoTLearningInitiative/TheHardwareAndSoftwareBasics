@@ -18,7 +18,7 @@
 
 ## Open Circuit
 
-> [Wikipedia]()
+> [Wikipedia](Open-circuit voltage (abbreviated as OCV or VOC ) is the difference of electrical potential between two terminals of a device when disconnected from any circuit.)
 
 ## Short Circuit
 
