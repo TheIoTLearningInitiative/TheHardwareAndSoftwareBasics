@@ -7,12 +7,12 @@
    * [Electronics](documentation/Electronics.md)
    * [Electronic Components](documentation/ElectronicComponents.md)
 * [Hardware](documentation/Hardware.md)
+   * [Processors](documentation/Processors.md)
    * [Computer](documentation/Computer.md)
    * [MicroController](documentation/MicroController.md)
    * [Integrated Circuits](documentation/IntegratedCircuits.md)
    * [Processing Units](documentation/ProcessingUnits.md)
    * [Real World Interaction](documentation/RealWorldInteraction.md)
-   * [Processors](documentation/Processors.md)
 * [Software](documentation/Software.md)
 * [Embedded Systems](documentation/EmbeddedSystems.md)
 
