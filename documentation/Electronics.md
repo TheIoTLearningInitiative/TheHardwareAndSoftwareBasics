@@ -22,6 +22,8 @@
 
 ## Short Circuit
 
+> 
+
 ## Serial Connection
 
 ## Parallel Connection
