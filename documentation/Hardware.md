@@ -10,8 +10,4 @@
 
 - [Sparkfun PCB Basics](https://learn.sparkfun.com/tutorials/pcb-basics)
 
-
-
-## Structure of a Personal Computer
-
 ## Structure of an Embedded System
