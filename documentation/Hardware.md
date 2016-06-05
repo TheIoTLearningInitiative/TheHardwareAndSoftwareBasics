@@ -79,10 +79,6 @@ From Sparkfun
 
 > General purpose means it is not designed for any specialized purpose
 
-## MicroController
-
-> A microcontroller (or MCU, short for microcontroller unit) is a small computer (SoC) on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals. Program memory in the form of Ferroelectric RAM, NOR flash or OTP ROM is also often included on chip, as well as a typically small amount of RAM. Microcontrollers are designed for embedded applications, in contrast to the microprocessors used in personal computers or other general purpose applications consisting of various discrete chips. [Wikipedia](https://en.wikipedia.org/wiki/Microcontroller)
-
 ## Control Unit
 
 > The control unit (CU) is a component of a computer's central processing unit (CPU) that directs operation of the processor. It tells the computer's memory, arithmetic/logic unit and input and output devices how to respond to a program's instructions. [Wikipedia](https://en.wikipedia.org/wiki/Control_unit)
@@ -90,3 +86,8 @@ From Sparkfun
 ## Input/output (I/O)
 
 > In computing, input/output or I/O (or, informally, io or IO) is the communication between an information processing system, such as a computer, and the outside world, possibly a human or another information processing system. Inputs are the signals or data received by the system and outputs are the signals or data sent from it. [Wikipedia](https://en.wikipedia.org/wiki/Input/output)
+
+
+# MicroController
+
+> A microcontroller (or MCU, short for microcontroller unit) is a small computer (SoC) on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals. Program memory in the form of Ferroelectric RAM, NOR flash or OTP ROM is also often included on chip, as well as a typically small amount of RAM. Microcontrollers are designed for embedded applications, in contrast to the microprocessors used in personal computers or other general purpose applications consisting of various discrete chips. [Wikipedia](https://en.wikipedia.org/wiki/Microcontroller)
