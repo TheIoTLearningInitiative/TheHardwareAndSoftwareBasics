@@ -77,6 +77,7 @@ From Sparkfun
 
 ## Structure of an Embedded System
 
+# Computer
 
 ## Processor Design
 
