@@ -8,6 +8,7 @@
    * [Electronic Components](documentation/ElectronicComponents.md)
 * [Hardware](documentation/Hardware.md)
    * [Computer](documentation/Computer.md)
+   * MicroController
 * [Software](documentation/Software.md)
 * [Embedded Systems](documentation/EmbeddedSystems.md)
 
