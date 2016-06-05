@@ -27,6 +27,8 @@ From Sparkfun
 
 ## Graphics Processing Units (GPUs)
 
+> A graphics processing unit (GPU), also occasionally called visual processing unit (VPU), is a specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display. [Wikipedia](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+
 ## Floating-point Processing Units (FPUs)
 
 ## Digital Signal Processors (DSPs)
