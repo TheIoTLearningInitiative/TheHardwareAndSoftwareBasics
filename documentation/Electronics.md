@@ -2,8 +2,8 @@
 
 ## Electricity
 
-> 
-> 
+> [Wikipedia]()
+
 - [What is Electricity?](https://learn.sparkfun.com/tutorials/what-is-electricity)
 
 ## Voltage
