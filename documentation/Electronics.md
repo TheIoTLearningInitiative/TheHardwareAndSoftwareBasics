@@ -20,9 +20,9 @@
 
 > An electrical network is an interconnection of electrical components (e.g. batteries, resistors, inductors, capacitors, switches) or a model of such an interconnection, consisting of electrical elements (e.g. voltage sources, current sources, resistances, inductances, capacitances). [Wikipedia](https://en.wikipedia.org/wiki/Electrical_network)
 
-## Serial Connection
+## Serial and Parallel Connections
 
-## Parallel Connection
+>  [Wikipedia](https://en.wikipedia.org/wiki/Series_and_parallel_circuits)
 
 ## Pull-Up Resistors
 
