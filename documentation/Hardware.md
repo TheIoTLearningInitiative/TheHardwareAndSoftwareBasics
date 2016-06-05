@@ -9,17 +9,7 @@ From Sparkfun
 - Soldering 101 - PTH
 - Signals
 
-## MicroProcessor
 
-> A microprocessor is a computer processor which incorporates the functions of a computer's central processing unit (CPU) on a single integrated circuit (IC), or at most a few integrated circuits. The microprocessor is a multipurpose, clock driven, register based, programmable electronic device which accepts digital or binary data as input, processes it according to instructions stored in its memory, and provides results as output. Microprocessors contain both combinational logic and sequential digital logic. Microprocessors operate on numbers and symbols represented in the binary numeral system. [Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
-
-### General Purpose Processor
-
-> General purpose means it is not designed for any specialized purpose
-
-## MicroController
-
-> A microcontroller (or MCU, short for microcontroller unit) is a small computer (SoC) on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals. Program memory in the form of Ferroelectric RAM, NOR flash or OTP ROM is also often included on chip, as well as a typically small amount of RAM. Microcontrollers are designed for embedded applications, in contrast to the microprocessors used in personal computers or other general purpose applications consisting of various discrete chips. [Wikipedia](https://en.wikipedia.org/wiki/Microcontroller)
 
 ## Field Programmable Gate Array
 
@@ -80,6 +70,18 @@ From Sparkfun
 ## Processor Design
 
 > Processor design is the design engineering task of creating a microprocessor, a component of computer hardware. [Wikipedia](https://en.wikipedia.org/wiki/Processor_design)
+
+## MicroProcessor
+
+> A microprocessor is a computer processor which incorporates the functions of a computer's central processing unit (CPU) on a single integrated circuit (IC), or at most a few integrated circuits. The microprocessor is a multipurpose, clock driven, register based, programmable electronic device which accepts digital or binary data as input, processes it according to instructions stored in its memory, and provides results as output. Microprocessors contain both combinational logic and sequential digital logic. Microprocessors operate on numbers and symbols represented in the binary numeral system. [Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
+
+### General Purpose Processor
+
+> General purpose means it is not designed for any specialized purpose
+
+## MicroController
+
+> A microcontroller (or MCU, short for microcontroller unit) is a small computer (SoC) on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals. Program memory in the form of Ferroelectric RAM, NOR flash or OTP ROM is also often included on chip, as well as a typically small amount of RAM. Microcontrollers are designed for embedded applications, in contrast to the microprocessors used in personal computers or other general purpose applications consisting of various discrete chips. [Wikipedia](https://en.wikipedia.org/wiki/Microcontroller)
 
 ## Control Unit
 
