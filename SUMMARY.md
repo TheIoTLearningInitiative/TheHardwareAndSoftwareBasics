@@ -12,6 +12,7 @@
    * [Integrated Circuits](documentation/IntegratedCircuits.md)
    * [Processing Units](documentation/ProcessingUnits.md)
    * [Real World Interaction](documentation/RealWorldInteraction.md)
+   * Processors
 * [Software](documentation/Software.md)
 * [Embedded Systems](documentation/EmbeddedSystems.md)
 
