@@ -1,3 +1,3 @@
 # Introduction
 
-- LearningaboutElectronics is the place to come to learn electronics. Attached to the Articles tab are articles that answer many questions about electronics that you may have, with more being added daily. This is not just a Q&A site as we also give real-life uses and projects of components, devices, and equipment that we explain with as many photos and videos that we can provide. [H](http://www.learningaboutelectronics.com/)
+- LearningaboutElectronics is the place to come to learn electronics. Attached to the Articles tab are articles that answer many questions about electronics that you may have, with more being added daily. This is not just a Q&A site as we also give real-life uses and projects of components, devices, and equipment that we explain with as many photos and videos that we can provide. [Homepage](http://www.learningaboutelectronics.com/)
