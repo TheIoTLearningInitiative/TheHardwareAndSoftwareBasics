@@ -8,9 +8,9 @@
 - BSP
 - Driver
 - Hardware Libs
-- Registers
-- IP Cores
-- Silicon Device
+- Registers (FPGA Engineer)
+- IP Cores (FPGA Engineer)
+- Silicon Device (FPGA Engineer)
 
 
 # HPS
