@@ -7,7 +7,8 @@
 
 
 - Non Volatile Storage
-  - Quad-SPI flash Controller
+  - Quad-SPI Flash Controller
+    - NOR Flash with SPI interface
   - NAND Flash Controller
   - SD/MMC Controller
 - Interface Protocols
