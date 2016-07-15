@@ -16,5 +16,5 @@
    * [Printed Circuit Board](documentation/PrintedCircuitBoard.md)
    * [Real World Interaction](documentation/RealWorldInteraction.md)
 * [Software](documentation/Software.md)
-* System On Chip
+* [System On Chip](documentation/SystemOnChip.md)
 
