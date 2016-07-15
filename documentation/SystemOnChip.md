@@ -4,7 +4,9 @@
 
 # HPS
 
+> Cyclone V SoC Hard Processor System
 
+# Documentation
 
 - Non Volatile Storage
   - Quad-SPI Flash Controller
