@@ -2,6 +2,9 @@
 
 > SoC Hardware Overview
 
+FPGA Engineer
+
+
 # HPS
 
 > Cyclone V SoC Hard Processor System
