@@ -1,6 +1,6 @@
 # System On Chip
 
-SoC Hardware Overview
+> SoC Hardware Overview
 
 # HPS
 
