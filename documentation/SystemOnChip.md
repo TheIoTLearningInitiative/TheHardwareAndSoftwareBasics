@@ -2,7 +2,15 @@
 
 > SoC Hardware Overview
 
-FPGA Engineer
+- Application
+- Middleware
+- OS
+- BSP
+- Driver
+- Hardware Libs
+- Registers
+- IP Cores
+- Silicon Device
 
 
 # HPS
