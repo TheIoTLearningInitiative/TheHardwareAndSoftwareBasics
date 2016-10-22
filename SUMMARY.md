@@ -16,6 +16,6 @@
    * [Printed Circuit Board](documentation/PrintedCircuitBoard.md)
    * [Real World Interaction](documentation/RealWorldInteraction.md)
 * [Software](documentation/Software.md)
-* Communities
+* [Communities](documentation/Communities.md)
 * [System On Chip](documentation/SystemOnChip.md)
 
