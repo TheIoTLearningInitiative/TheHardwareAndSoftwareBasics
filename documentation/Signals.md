@@ -12,4 +12,4 @@
 # Other Concepts
 
 - Bits Per Sample
-- 
+- Sampling
