@@ -2,7 +2,6 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
-   * Communities
 * [Concepts](documentation/ConceptsElectronics.md)
    * [Signals](documentation/Signals.md)
    * [Electronics](documentation/Electronics.md)
@@ -17,5 +16,6 @@
    * [Printed Circuit Board](documentation/PrintedCircuitBoard.md)
    * [Real World Interaction](documentation/RealWorldInteraction.md)
 * [Software](documentation/Software.md)
+* Communities
 * [System On Chip](documentation/SystemOnChip.md)
 
