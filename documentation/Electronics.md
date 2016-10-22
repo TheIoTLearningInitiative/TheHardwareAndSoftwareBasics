@@ -1,7 +1,7 @@
 # Electronics
 
 - Ohm's Law
-- Kirhoff's Law I
+- Kirchhoff's Law I
 
 
 
