@@ -2,6 +2,7 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
+   * Communities
 * [Concepts](documentation/ConceptsElectronics.md)
    * [Signals](documentation/Signals.md)
    * [Electronics](documentation/Electronics.md)
