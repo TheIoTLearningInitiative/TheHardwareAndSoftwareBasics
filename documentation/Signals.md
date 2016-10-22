@@ -13,3 +13,4 @@
 
 - Bits Per Sample
 - Sampling
+- Sampling Rate
