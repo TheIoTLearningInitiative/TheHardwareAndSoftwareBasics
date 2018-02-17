@@ -6,6 +6,7 @@
   * [Electronics](documentation/Electronics.md)
   * [Electronic Components](documentation/ElectronicComponents.md)
   * [Signals](documentation/Signals.md)
+  * [Level Shifting](documentation/LevelShifting.md)
 * [Hardware](documentation/Hardware.md)
   * [MicroProcessors](documentation/Processors.md)
   * [MicroController](documentation/MicroController.md)
