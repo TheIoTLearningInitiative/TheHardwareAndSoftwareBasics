@@ -12,3 +12,7 @@
 ## Current
 
 > An electric current is a flow of electric charge. In electric circuits this charge is often carried by moving electrons in a wire. It can also be carried by ions in an electrolyte, or by both ions and electrons such as in a plasma. [Wikipedia](https://en.wikipedia.org/wiki/Electric_current)
+
+## Resistance
+
+> The electrical resistance of an electrical conductor is a measure of the difficulty to pass an electric current through that conductor. The inverse quantity is electrical conductance, and is the ease with which an electric current passes. [Wikipedia](https://en.wikipedia.org/wiki/Electrical_resistance_and_conductance)
