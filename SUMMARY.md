@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * [Concepts](documentation/ConceptsElectronics.md)
+  * [Electricity](documentation/Electricity.md)
   * [Electronics](documentation/Electronics.md)
   * [Electronic Components](documentation/ElectronicComponents.md)
   * [Signals](documentation/Signals.md)
