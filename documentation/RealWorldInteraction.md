@@ -6,6 +6,8 @@
 
 ## Digital Analog Converter
 
+> In electronics, a digital-to-analog converter (DAC, D/A, D2A, or D-to-A) is a system that converts a digital signal into an analog signal. An analog-to-digital converter (ADC) performs the reverse function. [Wikipedia](https://en.wikipedia.org/wiki/Digital-to-analog_converter)
+
 ## Sensors
 
 > In the broadest definition, a sensor is an object whose purpose is to detect events or changes in its environment, and then provide a corresponding output. A sensor is a type of transducer; sensors may provide various types of output, but typically use electrical or optical signals. [Wikipedia](https://en.wikipedia.org/wiki/Sensor)
