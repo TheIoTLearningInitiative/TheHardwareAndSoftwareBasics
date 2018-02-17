@@ -11,9 +11,7 @@
 * Registers \(FPGA Engineer\)
 * IP Cores \(FPGA Engineer\)
 * Silicon Device \(FPGA Engineer\)
-
 * FPGA Design Flow & Software Design Flow
-
   * Design
   * Simulate
   * Debug
