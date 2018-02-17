@@ -9,6 +9,7 @@
 * [Hardware](documentation/Hardware.md)
   * [MicroProcessors](documentation/Processors.md)
   * [MicroController](documentation/MicroController.md)
+  * [Intellectual Property Core](documentation/IntellectualPropertyCore.md)
   * [Computer](documentation/Computer.md)
   * [Embedded Systems](documentation/EmbeddedSystems.md)
   * [Integrated Circuits](documentation/IntegratedCircuits.md)
