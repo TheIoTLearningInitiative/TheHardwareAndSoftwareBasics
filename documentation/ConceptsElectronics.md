@@ -3,7 +3,6 @@
 - Binary
 - Analog
 - Digital
-
 - Voltage
 - Current
 - Resistor
